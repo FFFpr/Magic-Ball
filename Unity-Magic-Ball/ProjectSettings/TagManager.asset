@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - land
+  - button
+  - magicBall
+  - targetHoop
+  - ownHoop
   layers:
   - Default
   - TransparentFX
@@ -19,7 +24,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - land
   - 
   - 
   - 
